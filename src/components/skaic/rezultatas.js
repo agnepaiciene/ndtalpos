@@ -1,5 +1,6 @@
+
 function Rezultatas(props){
-    const progresCss={
+    const progressCss={
         width: props.rezultatas+"%",
         backgroundColor:'red'
     };
@@ -20,11 +21,10 @@ function Rezultatas(props){
                 Rezultatai
             </div>
             <div className="card-body">
-                {props.veiksmas}<br />
-                Daugyba: { props.rezultatas }
+               Užpildyta { props.rezultatas } % rezervuaro!
                 <div>
                     <div className="progress">
-                        <div className={cssClass} role="progressbar" style={ progresCss } ></div>
+                        <div className={cssClass} role="progressbar" style={ progressCss } ></div>
                     </div>
 
                 </div>
@@ -33,9 +33,5 @@ function Rezultatas(props){
         </div>
     );
 }
-
-
-
-
 
 export default Rezultatas;
