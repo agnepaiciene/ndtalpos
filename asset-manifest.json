@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/ndtalpos-app-react/static/css/main.68841a8d.css",
-    "main.js": "/github.io/ndtalpos-app-react/static/js/main.4aa3dabf.js",
-    "static/js/787.dad50dcf.chunk.js": "/github.io/ndtalpos-app-react/static/js/787.dad50dcf.chunk.js",
-    "index.html": "/github.io/ndtalpos-app-react/index.html",
-    "main.68841a8d.css.map": "/github.io/ndtalpos-app-react/static/css/main.68841a8d.css.map",
-    "main.4aa3dabf.js.map": "/github.io/ndtalpos-app-react/static/js/main.4aa3dabf.js.map",
-    "787.dad50dcf.chunk.js.map": "/github.io/ndtalpos-app-react/static/js/787.dad50dcf.chunk.js.map"
+    "main.css": "/github.io/ndtalpos/static/css/main.68841a8d.css",
+    "main.js": "/github.io/ndtalpos/static/js/main.7983a6e9.js",
+    "static/js/787.dad50dcf.chunk.js": "/github.io/ndtalpos/static/js/787.dad50dcf.chunk.js",
+    "index.html": "/github.io/ndtalpos/index.html",
+    "main.68841a8d.css.map": "/github.io/ndtalpos/static/css/main.68841a8d.css.map",
+    "main.7983a6e9.js.map": "/github.io/ndtalpos/static/js/main.7983a6e9.js.map",
+    "787.dad50dcf.chunk.js.map": "/github.io/ndtalpos/static/js/787.dad50dcf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68841a8d.css",
-    "static/js/main.4aa3dabf.js"
+    "static/js/main.7983a6e9.js"
   ]
 }
