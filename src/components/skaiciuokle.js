@@ -16,7 +16,6 @@ const [rezultatas, setRezultatas] = useState(0);
 
 
 const updateData=(data)=>{
-    console.log("Duomenys skaiciuokle");
      setSkData(data);
      setRezultatas((data.h * data.g) *100 / data.l);
      
